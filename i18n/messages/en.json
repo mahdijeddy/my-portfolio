@@ -75,8 +75,8 @@
     "fastestBadge": "Preferred",
     "emailTitle": "Direct Email",
     "telegramTitle": "Telegram Messenger",
-    "linkedinTitle": "Professional LinkedIn",
-    "githubTitle": "Open Source GitHub",
+    "linkedinTitle": "LinkedIn",
+    "githubTitle": "GitHub",
     "phoneTitle": "Direct Voice / Mobile"
   },
   "NotFoundPage": {

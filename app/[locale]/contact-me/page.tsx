@@ -86,19 +86,20 @@ async function ContactMePage({ params }: Props) {
             // badgeText: t("fastestBadge"),
         },
         {
-            title: t("linkedinTitle"),
-            value: "Mahdi Jeddi",
-            href: "https://www.linkedin.com/in/mahdi-jeddi/",
-            icon: LinkedinIcon,
-            badgeText: t("fastestBadge"),
-        },
-        {
             title: t("telegramTitle"),
             value: "@mahdijeddidev",
             href: "https://t.me/mahdijeddidev",
             icon: TelegramIcon,
             badgeText: t("fastestBadge"),
         },
+        {
+            title: t("linkedinTitle"),
+            value: "Mahdi Jeddi",
+            href: "https://www.linkedin.com/in/mahdijeddidev/",
+            icon: LinkedinIcon,
+            badgeText: t("fastestBadge"),
+        },
+
         {
             title: t("githubTitle"),
             value: "mahdijeddidev",

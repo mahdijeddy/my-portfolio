@@ -71,7 +71,7 @@ async function HomePage({ params }: Props) {
   const { locale } = await params
   //  -- UI
   const socials = [
-    { name: "LinkedIn", href: "https://www.linkedin.com/in/mahdi-jeddi/", icon: <MyIcon icon={LinkedinIcon} size={24} /> },
+    { name: "LinkedIn", href: "https://www.linkedin.com/in/mahdijeddidev/", icon: <MyIcon icon={LinkedinIcon} size={24} /> },
     { name: "GitHub", href: "https://github.com/mahdijeddidev", icon: <MyIcon icon={GithubIcon} size={24} /> },
     { name: "Telegram", href: "https://t.me/mahdijeddidev", icon: <MyIcon icon={TelegramIcon} size={24} /> },
     { name: "Email", href: "https://mail.google.com/mail/?view=cm&fs=1&to=mahdijeddidev@gmail.com", icon: <MyIcon icon={Email} size={24} /> },
